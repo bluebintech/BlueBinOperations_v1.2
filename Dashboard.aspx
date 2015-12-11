@@ -33,7 +33,7 @@
 							<li><a href="#" onClick="switchView('Daily Management Dashboard')">Daily Management Dashboard</a></li>
                             <li class="divider"></li>
                             <li><a href="#" onClick="switchView('Node Activity')">Node Activity</a></li>
-							<li><a href="#" onClick="switchView('BlueBin Activity Report')">Bin Activity</a></li>
+							<li><a href="#" onClick="switchView('Bin Activity Report')">Bin Activity</a></li>
                             <li><a href="#" onClick="switchView('Bin Velocity Report')">Bin Velocity Report</a></li>
                             <li><a href="#" onClick="switchView('Slow Bin Report')">Slow Bin Report</a></li>
                             <li class="divider"></li>
