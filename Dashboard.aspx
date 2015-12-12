@@ -52,8 +52,8 @@
               <ul class="dropdown-menu" aria-labelledby="download2">
                 			<li><a href="#" onClick="switchView('Supply Spend')">Supply Spend</a></li>
                             <li><a href="#" onClick="switchView('Stat Calls')">Stat Calls</a></li>
-                            <li><a href="#" onClick="switchView('Warehouse Volume')">Warehouse Volume*</a></li>
-                            <li><a href="#" onClick="switchView('Warehouse Size')">Warehouse Size*</a></li>
+                            <li><a href="#" onClick="switchView('Warehouse Value')">Warehouse Volume</a></li>
+                            <li><a href="#" onClick="switchView('Warehouse Size')">Warehouse Size</a></li>
                             <li><a href="#" onClick="switchView('Pick Line Volume')">Pick Line Volume</a></li>
                             <li><a href="#" onClick="switchView('Requisition Volume')">Requisition Volume*</a></li>
                             <li><a href="#" onClick="switchView('Overall Line Volume')">Overall Line Volume</a></li>
